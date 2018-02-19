@@ -1,0 +1,480 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/hit.h
+triple.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/triple.h
+limits
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/image.cpp
+image.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/image.h
+lode/lodepng.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/lode/lodepng.h
+iostream
+-
+fstream
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/image.h
+triple.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/triple.h
+string
+-
+vector
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/json/json.h
+algorithm
+-
+cassert
+-
+ciso646
+-
+cstddef
+-
+functional
+-
+initializer_list
+-
+iosfwd
+-
+iterator
+-
+numeric
+-
+string
+-
+utility
+-
+cstdint
+-
+map
+-
+memory
+-
+string
+-
+vector
+-
+ciso646
+-
+cstddef
+-
+limits
+-
+type_traits
+-
+utility
+-
+exception
+-
+stdexcept
+-
+string
+-
+array
+-
+ciso646
+-
+cstddef
+-
+cstdint
+-
+algorithm
+-
+array
+-
+ciso646
+-
+forward_list
+-
+iterator
+-
+string
+-
+tuple
+-
+type_traits
+-
+utility
+-
+valarray
+-
+ciso646
+-
+iterator
+-
+tuple
+-
+type_traits
+-
+utility
+-
+valarray
+-
+vector
+-
+algorithm
+-
+array
+-
+cassert
+-
+cstddef
+-
+cstring
+-
+ios
+-
+istream
+-
+iterator
+-
+memory
+-
+numeric
+-
+string
+-
+type_traits
+-
+utility
+-
+clocale
+-
+cstddef
+-
+cstdlib
+-
+initializer_list
+-
+ios
+-
+iomanip
+-
+sstream
+-
+string
+-
+vector
+-
+cassert
+-
+cmath
+-
+cstdint
+-
+functional
+-
+string
+-
+utility
+-
+cstddef
+-
+limits
+-
+ciso646
+-
+iterator
+-
+type_traits
+-
+cstddef
+-
+string
+-
+cstddef
+-
+iterator
+-
+utility
+-
+algorithm
+-
+cstddef
+-
+ios
+-
+iterator
+-
+memory
+-
+ostream
+-
+string
+-
+vector
+-
+algorithm
+-
+array
+-
+cassert
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstring
+-
+iomanip
+-
+ios
+-
+iterator
+-
+limits
+-
+sstream
+-
+string
+-
+utility
+-
+algorithm
+-
+array
+-
+cstdint
+-
+cstring
+-
+limits
+-
+algorithm
+-
+array
+-
+cassert
+-
+ciso646
+-
+clocale
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstdio
+-
+iterator
+-
+limits
+-
+string
+-
+type_traits
+-
+cassert
+-
+ciso646
+-
+cmath
+-
+cstdint
+-
+cstring
+-
+initializer_list
+-
+utility
+-
+utility
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/json/json_fwd.h
+cstdint
+-
+map
+-
+memory
+-
+string
+-
+vector
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/light.h
+triple.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/triple.h
+memory
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/lode/lodepng.cpp
+lodepng.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/lode/lodepng.h
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/lode/lodepng.h
+string.h
+-
+vector
+-
+string
+-
+lodepng.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/lode/lodepng.h
+iostream
+-
+lodepng.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/lode/lodepng.h
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/main.cpp
+raytracer.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/raytracer.h
+iostream
+-
+string
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/material.h
+triple.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/triple.h
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/object.h
+material.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/material.h
+hit.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/hit.h
+ray.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/ray.h
+triple.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/triple.h
+memory
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/objloader.cpp
+objloader.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/objloader.h
+fstream
+-
+iostream
+-
+sstream
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/objloader.h
+vertex.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/vertex.h
+string
+-
+vector
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/ray.h
+triple.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/triple.h
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/raytracer.cpp
+raytracer.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/raytracer.h
+image.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/image.h
+light.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/light.h
+material.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/material.h
+triple.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/triple.h
+shapes/sphere.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/shapes/sphere.h
+json/json.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/json/json.h
+exception
+-
+fstream
+-
+iostream
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/raytracer.h
+scene.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/scene.h
+string
+-
+json/json_fwd.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/json/json_fwd.h
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/scene.cpp
+scene.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/scene.h
+hit.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/hit.h
+image.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/image.h
+material.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/material.h
+ray.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/ray.h
+cmath
+-
+limits
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/scene.h
+light.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/light.h
+object.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/object.h
+triple.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/triple.h
+vector
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/shapes/example.cpp
+example.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/shapes/example.h
+cmath
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/shapes/example.h
+../object.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/object.h
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/shapes/sphere.cpp
+sphere.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/shapes/sphere.h
+cmath
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/shapes/sphere.h
+../object.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/object.h
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/triple.cpp
+triple.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/triple.h
+json/json.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/json/json.h
+cmath
+-
+exception
+-
+iostream
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/triple.h
+json/json_fwd.h
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/json/json_fwd.h
+iosfwd
+-
+
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/vertex.h
+

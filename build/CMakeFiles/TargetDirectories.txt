@@ -1,0 +1,3 @@
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/build/CMakeFiles/edit_cache.dir
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/build/CMakeFiles/rebuild_cache.dir
+/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/build/CMakeFiles/ray.dir
