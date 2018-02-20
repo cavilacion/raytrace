@@ -32,6 +32,7 @@ Color Scene::trace(Ray const &ray)
     Point hit = ray.at(min_hit.t);                 //the hit point
     Vector N = min_hit.N;                          //the normal at hit point
     Vector V = -ray.D;                             //the view vector
+     
 
     /****************************************************
     * This is where you should insert the color
@@ -50,10 +51,23 @@ Color Scene::trace(Ray const &ray)
     *        Color * Color      dito
     *        pow(a,b)           a to the power of b
     ****************************************************/
-
-    Color color = material.color;                  // place holder
-
-    return color;
+	Color color = material.color;
+	Vector I;
+	Triple Ia = color*material.ka;  
+	
+	for(auto lightptr : lights) {
+		Vector lightposition = lightptr->position;
+		Color lightcolor = lightptr->color;
+		
+		Vector L = (lightposition-hit).normalized();
+		Vector R = (2.0*N.dot(L)*N) - L;			// Reflection fector 
+		                
+		Triple Id = color*lightcolor*material.kd*max(0.0,L.dot(N));
+		Triple Is = pow(max(0.0,V.dot(R)),material.n)*lightcolor*material.ks;
+		
+		I += Id + Is;
+	}   
+    return Ia + I;
 }
 
 void Scene::render(Image &img)
