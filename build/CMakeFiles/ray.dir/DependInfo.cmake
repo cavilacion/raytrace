@@ -4,15 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/image.cpp" "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/build/CMakeFiles/ray.dir/Code/image.cpp.o"
-  "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/lode/lodepng.cpp" "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/build/CMakeFiles/ray.dir/Code/lode/lodepng.cpp.o"
-  "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/main.cpp" "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/build/CMakeFiles/ray.dir/Code/main.cpp.o"
-  "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/objloader.cpp" "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/build/CMakeFiles/ray.dir/Code/objloader.cpp.o"
-  "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/raytracer.cpp" "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/build/CMakeFiles/ray.dir/Code/raytracer.cpp.o"
-  "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/scene.cpp" "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/build/CMakeFiles/ray.dir/Code/scene.cpp.o"
-  "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/shapes/example.cpp" "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/build/CMakeFiles/ray.dir/Code/shapes/example.cpp.o"
-  "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/shapes/sphere.cpp" "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/build/CMakeFiles/ray.dir/Code/shapes/sphere.cpp.o"
-  "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/Code/triple.cpp" "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/build/CMakeFiles/ray.dir/Code/triple.cpp.o"
+  "/home/s2197839/ComputerGraphics/raytrace/Code/image.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/image.cpp.o"
+  "/home/s2197839/ComputerGraphics/raytrace/Code/lode/lodepng.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/lode/lodepng.cpp.o"
+  "/home/s2197839/ComputerGraphics/raytrace/Code/main.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/main.cpp.o"
+  "/home/s2197839/ComputerGraphics/raytrace/Code/objloader.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/objloader.cpp.o"
+  "/home/s2197839/ComputerGraphics/raytrace/Code/raytracer.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/raytracer.cpp.o"
+  "/home/s2197839/ComputerGraphics/raytrace/Code/scene.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/scene.cpp.o"
+  "/home/s2197839/ComputerGraphics/raytrace/Code/shapes/example.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/shapes/example.cpp.o"
+  "/home/s2197839/ComputerGraphics/raytrace/Code/shapes/sphere.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/shapes/sphere.cpp.o"
+  "/home/s2197839/ComputerGraphics/raytrace/Code/triple.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/triple.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

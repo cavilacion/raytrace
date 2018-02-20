@@ -1,4 +1,4 @@
-# Install script for directory: /media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2
+# Install script for directory: /home/s2197839/ComputerGraphics/raytrace
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/media/erik/04ea5d36-ed93-4b6c-9427-31a08519f667/erik/Study/Computer Graphics/lab2/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/s2197839/ComputerGraphics/raytrace/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
