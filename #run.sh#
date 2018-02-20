@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd build
+cmake ..
+make
+./ray ../Scenes/scene01.json
+xdg-open ../Scenes/scene01.png
