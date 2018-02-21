@@ -5,5 +5,5 @@ cmake ..
 echo "Building project..."
 make
 echo "Running project..."
-./ray ../Scenes/scene01.json
-xdg-open ../Scenes/scene01.png
+./ray ../Scenes/scene03_3shapes.json
+xdg-open ../Scenes/scene03.png
