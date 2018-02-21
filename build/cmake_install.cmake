@@ -1,4 +1,4 @@
-# Install script for directory: /home/s2197839/ComputerGraphics/raytrace
+# Install script for directory: /home/s2393220/CompGraph/raytrace
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/s2197839/ComputerGraphics/raytrace/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/s2393220/CompGraph/raytrace/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

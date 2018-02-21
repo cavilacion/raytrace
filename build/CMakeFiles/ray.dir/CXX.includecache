@@ -6,31 +6,31 @@
 
 #IncludeRegexTransform: 
 
-/home/s2197839/ComputerGraphics/raytrace/Code/hit.h
+/home/s2393220/CompGraph/raytrace/Code/hit.h
 triple.h
-/home/s2197839/ComputerGraphics/raytrace/Code/triple.h
+/home/s2393220/CompGraph/raytrace/Code/triple.h
 limits
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/image.cpp
+/home/s2393220/CompGraph/raytrace/Code/image.cpp
 image.h
-/home/s2197839/ComputerGraphics/raytrace/Code/image.h
+/home/s2393220/CompGraph/raytrace/Code/image.h
 lode/lodepng.h
-/home/s2197839/ComputerGraphics/raytrace/Code/lode/lodepng.h
+/home/s2393220/CompGraph/raytrace/Code/lode/lodepng.h
 iostream
 -
 fstream
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/image.h
+/home/s2393220/CompGraph/raytrace/Code/image.h
 triple.h
-/home/s2197839/ComputerGraphics/raytrace/Code/triple.h
+/home/s2393220/CompGraph/raytrace/Code/triple.h
 string
 -
 vector
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/json/json.h
+/home/s2393220/CompGraph/raytrace/Code/json/json.h
 algorithm
 -
 cassert
@@ -294,7 +294,7 @@ utility
 utility
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/json/json_fwd.h
+/home/s2393220/CompGraph/raytrace/Code/json/json_fwd.h
 cstdint
 -
 map
@@ -306,15 +306,15 @@ string
 vector
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/light.h
+/home/s2393220/CompGraph/raytrace/Code/light.h
 triple.h
-/home/s2197839/ComputerGraphics/raytrace/Code/triple.h
+/home/s2393220/CompGraph/raytrace/Code/triple.h
 memory
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/lode/lodepng.cpp
+/home/s2393220/CompGraph/raytrace/Code/lode/lodepng.cpp
 lodepng.h
-/home/s2197839/ComputerGraphics/raytrace/Code/lode/lodepng.h
+/home/s2393220/CompGraph/raytrace/Code/lode/lodepng.h
 limits.h
 -
 stdio.h
@@ -322,7 +322,7 @@ stdio.h
 stdlib.h
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/lode/lodepng.h
+/home/s2393220/CompGraph/raytrace/Code/lode/lodepng.h
 string.h
 -
 vector
@@ -330,39 +330,39 @@ vector
 string
 -
 lodepng.h
-/home/s2197839/ComputerGraphics/raytrace/Code/lode/lodepng.h
+/home/s2393220/CompGraph/raytrace/Code/lode/lodepng.h
 iostream
 -
 lodepng.h
-/home/s2197839/ComputerGraphics/raytrace/Code/lode/lodepng.h
+/home/s2393220/CompGraph/raytrace/Code/lode/lodepng.h
 
-/home/s2197839/ComputerGraphics/raytrace/Code/main.cpp
+/home/s2393220/CompGraph/raytrace/Code/main.cpp
 raytracer.h
-/home/s2197839/ComputerGraphics/raytrace/Code/raytracer.h
+/home/s2393220/CompGraph/raytrace/Code/raytracer.h
 iostream
 -
 string
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/material.h
+/home/s2393220/CompGraph/raytrace/Code/material.h
 triple.h
-/home/s2197839/ComputerGraphics/raytrace/Code/triple.h
+/home/s2393220/CompGraph/raytrace/Code/triple.h
 
-/home/s2197839/ComputerGraphics/raytrace/Code/object.h
+/home/s2393220/CompGraph/raytrace/Code/object.h
 material.h
-/home/s2197839/ComputerGraphics/raytrace/Code/material.h
+/home/s2393220/CompGraph/raytrace/Code/material.h
 hit.h
-/home/s2197839/ComputerGraphics/raytrace/Code/hit.h
+/home/s2393220/CompGraph/raytrace/Code/hit.h
 ray.h
-/home/s2197839/ComputerGraphics/raytrace/Code/ray.h
+/home/s2393220/CompGraph/raytrace/Code/ray.h
 triple.h
-/home/s2197839/ComputerGraphics/raytrace/Code/triple.h
+/home/s2393220/CompGraph/raytrace/Code/triple.h
 memory
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/objloader.cpp
+/home/s2393220/CompGraph/raytrace/Code/objloader.cpp
 objloader.h
-/home/s2197839/ComputerGraphics/raytrace/Code/objloader.h
+/home/s2393220/CompGraph/raytrace/Code/objloader.h
 fstream
 -
 iostream
@@ -370,33 +370,37 @@ iostream
 sstream
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/objloader.h
+/home/s2393220/CompGraph/raytrace/Code/objloader.h
 vertex.h
-/home/s2197839/ComputerGraphics/raytrace/Code/vertex.h
+/home/s2393220/CompGraph/raytrace/Code/vertex.h
 string
 -
 vector
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/ray.h
+/home/s2393220/CompGraph/raytrace/Code/ray.h
 triple.h
-/home/s2197839/ComputerGraphics/raytrace/Code/triple.h
+/home/s2393220/CompGraph/raytrace/Code/triple.h
 
-/home/s2197839/ComputerGraphics/raytrace/Code/raytracer.cpp
+/home/s2393220/CompGraph/raytrace/Code/raytracer.cpp
 raytracer.h
-/home/s2197839/ComputerGraphics/raytrace/Code/raytracer.h
+/home/s2393220/CompGraph/raytrace/Code/raytracer.h
 image.h
-/home/s2197839/ComputerGraphics/raytrace/Code/image.h
+/home/s2393220/CompGraph/raytrace/Code/image.h
 light.h
-/home/s2197839/ComputerGraphics/raytrace/Code/light.h
+/home/s2393220/CompGraph/raytrace/Code/light.h
 material.h
-/home/s2197839/ComputerGraphics/raytrace/Code/material.h
+/home/s2393220/CompGraph/raytrace/Code/material.h
 triple.h
-/home/s2197839/ComputerGraphics/raytrace/Code/triple.h
+/home/s2393220/CompGraph/raytrace/Code/triple.h
 shapes/sphere.h
-/home/s2197839/ComputerGraphics/raytrace/Code/shapes/sphere.h
+/home/s2393220/CompGraph/raytrace/Code/shapes/sphere.h
+shapes/triangle.h
+/home/s2393220/CompGraph/raytrace/Code/shapes/triangle.h
+shapes/torus.h
+/home/s2393220/CompGraph/raytrace/Code/shapes/torus.h
 json/json.h
-/home/s2197839/ComputerGraphics/raytrace/Code/json/json.h
+/home/s2393220/CompGraph/raytrace/Code/json/json.h
 exception
 -
 fstream
@@ -404,67 +408,87 @@ fstream
 iostream
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/raytracer.h
+/home/s2393220/CompGraph/raytrace/Code/raytracer.h
 scene.h
-/home/s2197839/ComputerGraphics/raytrace/Code/scene.h
+/home/s2393220/CompGraph/raytrace/Code/scene.h
 string
 -
 json/json_fwd.h
-/home/s2197839/ComputerGraphics/raytrace/Code/json/json_fwd.h
+/home/s2393220/CompGraph/raytrace/Code/json/json_fwd.h
 
-/home/s2197839/ComputerGraphics/raytrace/Code/scene.cpp
+/home/s2393220/CompGraph/raytrace/Code/scene.cpp
 scene.h
-/home/s2197839/ComputerGraphics/raytrace/Code/scene.h
+/home/s2393220/CompGraph/raytrace/Code/scene.h
 hit.h
-/home/s2197839/ComputerGraphics/raytrace/Code/hit.h
+/home/s2393220/CompGraph/raytrace/Code/hit.h
 image.h
-/home/s2197839/ComputerGraphics/raytrace/Code/image.h
+/home/s2393220/CompGraph/raytrace/Code/image.h
 material.h
-/home/s2197839/ComputerGraphics/raytrace/Code/material.h
+/home/s2393220/CompGraph/raytrace/Code/material.h
 ray.h
-/home/s2197839/ComputerGraphics/raytrace/Code/ray.h
+/home/s2393220/CompGraph/raytrace/Code/ray.h
 cmath
 -
 limits
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/scene.h
+/home/s2393220/CompGraph/raytrace/Code/scene.h
 light.h
-/home/s2197839/ComputerGraphics/raytrace/Code/light.h
+/home/s2393220/CompGraph/raytrace/Code/light.h
 object.h
-/home/s2197839/ComputerGraphics/raytrace/Code/object.h
+/home/s2393220/CompGraph/raytrace/Code/object.h
 triple.h
-/home/s2197839/ComputerGraphics/raytrace/Code/triple.h
+/home/s2393220/CompGraph/raytrace/Code/triple.h
 vector
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/shapes/example.cpp
+/home/s2393220/CompGraph/raytrace/Code/shapes/example.cpp
 example.h
-/home/s2197839/ComputerGraphics/raytrace/Code/shapes/example.h
+/home/s2393220/CompGraph/raytrace/Code/shapes/example.h
 cmath
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/shapes/example.h
+/home/s2393220/CompGraph/raytrace/Code/shapes/example.h
 ../object.h
-/home/s2197839/ComputerGraphics/raytrace/Code/object.h
+/home/s2393220/CompGraph/raytrace/Code/object.h
 
-/home/s2197839/ComputerGraphics/raytrace/Code/shapes/sphere.cpp
+/home/s2393220/CompGraph/raytrace/Code/shapes/sphere.cpp
 sphere.h
-/home/s2197839/ComputerGraphics/raytrace/Code/shapes/sphere.h
+/home/s2393220/CompGraph/raytrace/Code/shapes/sphere.h
 iostream
 -
 cmath
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/shapes/sphere.h
+/home/s2393220/CompGraph/raytrace/Code/shapes/sphere.h
 ../object.h
-/home/s2197839/ComputerGraphics/raytrace/Code/object.h
+/home/s2393220/CompGraph/raytrace/Code/object.h
 
-/home/s2197839/ComputerGraphics/raytrace/Code/triple.cpp
+/home/s2393220/CompGraph/raytrace/Code/shapes/torus.cpp
+torus.h
+/home/s2393220/CompGraph/raytrace/Code/shapes/torus.h
+cmath
+-
+
+/home/s2393220/CompGraph/raytrace/Code/shapes/torus.h
+../object.h
+/home/s2393220/CompGraph/raytrace/Code/object.h
+
+/home/s2393220/CompGraph/raytrace/Code/shapes/triangle.cpp
+triangle.h
+/home/s2393220/CompGraph/raytrace/Code/shapes/triangle.h
+cmath
+-
+
+/home/s2393220/CompGraph/raytrace/Code/shapes/triangle.h
+../object.h
+/home/s2393220/CompGraph/raytrace/Code/object.h
+
+/home/s2393220/CompGraph/raytrace/Code/triple.cpp
 triple.h
-/home/s2197839/ComputerGraphics/raytrace/Code/triple.h
+/home/s2393220/CompGraph/raytrace/Code/triple.h
 json/json.h
-/home/s2197839/ComputerGraphics/raytrace/Code/json/json.h
+/home/s2393220/CompGraph/raytrace/Code/json/json.h
 cmath
 -
 exception
@@ -472,11 +496,11 @@ exception
 iostream
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/triple.h
+/home/s2393220/CompGraph/raytrace/Code/triple.h
 json/json_fwd.h
-/home/s2197839/ComputerGraphics/raytrace/Code/json/json_fwd.h
+/home/s2393220/CompGraph/raytrace/Code/json/json_fwd.h
 iosfwd
 -
 
-/home/s2197839/ComputerGraphics/raytrace/Code/vertex.h
+/home/s2393220/CompGraph/raytrace/Code/vertex.h
 

@@ -4,15 +4,17 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/s2197839/ComputerGraphics/raytrace/Code/image.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/image.cpp.o"
-  "/home/s2197839/ComputerGraphics/raytrace/Code/lode/lodepng.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/lode/lodepng.cpp.o"
-  "/home/s2197839/ComputerGraphics/raytrace/Code/main.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/main.cpp.o"
-  "/home/s2197839/ComputerGraphics/raytrace/Code/objloader.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/objloader.cpp.o"
-  "/home/s2197839/ComputerGraphics/raytrace/Code/raytracer.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/raytracer.cpp.o"
-  "/home/s2197839/ComputerGraphics/raytrace/Code/scene.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/scene.cpp.o"
-  "/home/s2197839/ComputerGraphics/raytrace/Code/shapes/example.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/shapes/example.cpp.o"
-  "/home/s2197839/ComputerGraphics/raytrace/Code/shapes/sphere.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/shapes/sphere.cpp.o"
-  "/home/s2197839/ComputerGraphics/raytrace/Code/triple.cpp" "/home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/ray.dir/Code/triple.cpp.o"
+  "/home/s2393220/CompGraph/raytrace/Code/image.cpp" "/home/s2393220/CompGraph/raytrace/build/CMakeFiles/ray.dir/Code/image.cpp.o"
+  "/home/s2393220/CompGraph/raytrace/Code/lode/lodepng.cpp" "/home/s2393220/CompGraph/raytrace/build/CMakeFiles/ray.dir/Code/lode/lodepng.cpp.o"
+  "/home/s2393220/CompGraph/raytrace/Code/main.cpp" "/home/s2393220/CompGraph/raytrace/build/CMakeFiles/ray.dir/Code/main.cpp.o"
+  "/home/s2393220/CompGraph/raytrace/Code/objloader.cpp" "/home/s2393220/CompGraph/raytrace/build/CMakeFiles/ray.dir/Code/objloader.cpp.o"
+  "/home/s2393220/CompGraph/raytrace/Code/raytracer.cpp" "/home/s2393220/CompGraph/raytrace/build/CMakeFiles/ray.dir/Code/raytracer.cpp.o"
+  "/home/s2393220/CompGraph/raytrace/Code/scene.cpp" "/home/s2393220/CompGraph/raytrace/build/CMakeFiles/ray.dir/Code/scene.cpp.o"
+  "/home/s2393220/CompGraph/raytrace/Code/shapes/example.cpp" "/home/s2393220/CompGraph/raytrace/build/CMakeFiles/ray.dir/Code/shapes/example.cpp.o"
+  "/home/s2393220/CompGraph/raytrace/Code/shapes/sphere.cpp" "/home/s2393220/CompGraph/raytrace/build/CMakeFiles/ray.dir/Code/shapes/sphere.cpp.o"
+  "/home/s2393220/CompGraph/raytrace/Code/shapes/torus.cpp" "/home/s2393220/CompGraph/raytrace/build/CMakeFiles/ray.dir/Code/shapes/torus.cpp.o"
+  "/home/s2393220/CompGraph/raytrace/Code/shapes/triangle.cpp" "/home/s2393220/CompGraph/raytrace/build/CMakeFiles/ray.dir/Code/shapes/triangle.cpp.o"
+  "/home/s2393220/CompGraph/raytrace/Code/triple.cpp" "/home/s2393220/CompGraph/raytrace/build/CMakeFiles/ray.dir/Code/triple.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

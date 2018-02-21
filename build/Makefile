@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/s2197839/ComputerGraphics/raytrace
+CMAKE_SOURCE_DIR = /home/s2393220/CompGraph/raytrace
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/s2197839/ComputerGraphics/raytrace/build
+CMAKE_BINARY_DIR = /home/s2393220/CompGraph/raytrace/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles /home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/s2393220/CompGraph/raytrace/build/CMakeFiles /home/s2393220/CompGraph/raytrace/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/s2197839/ComputerGraphics/raytrace/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/s2393220/CompGraph/raytrace/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -339,6 +339,60 @@ Code/shapes/sphere.cpp.s:
 	$(MAKE) -f CMakeFiles/ray.dir/build.make CMakeFiles/ray.dir/Code/shapes/sphere.cpp.s
 .PHONY : Code/shapes/sphere.cpp.s
 
+Code/shapes/torus.o: Code/shapes/torus.cpp.o
+
+.PHONY : Code/shapes/torus.o
+
+# target to build an object file
+Code/shapes/torus.cpp.o:
+	$(MAKE) -f CMakeFiles/ray.dir/build.make CMakeFiles/ray.dir/Code/shapes/torus.cpp.o
+.PHONY : Code/shapes/torus.cpp.o
+
+Code/shapes/torus.i: Code/shapes/torus.cpp.i
+
+.PHONY : Code/shapes/torus.i
+
+# target to preprocess a source file
+Code/shapes/torus.cpp.i:
+	$(MAKE) -f CMakeFiles/ray.dir/build.make CMakeFiles/ray.dir/Code/shapes/torus.cpp.i
+.PHONY : Code/shapes/torus.cpp.i
+
+Code/shapes/torus.s: Code/shapes/torus.cpp.s
+
+.PHONY : Code/shapes/torus.s
+
+# target to generate assembly for a file
+Code/shapes/torus.cpp.s:
+	$(MAKE) -f CMakeFiles/ray.dir/build.make CMakeFiles/ray.dir/Code/shapes/torus.cpp.s
+.PHONY : Code/shapes/torus.cpp.s
+
+Code/shapes/triangle.o: Code/shapes/triangle.cpp.o
+
+.PHONY : Code/shapes/triangle.o
+
+# target to build an object file
+Code/shapes/triangle.cpp.o:
+	$(MAKE) -f CMakeFiles/ray.dir/build.make CMakeFiles/ray.dir/Code/shapes/triangle.cpp.o
+.PHONY : Code/shapes/triangle.cpp.o
+
+Code/shapes/triangle.i: Code/shapes/triangle.cpp.i
+
+.PHONY : Code/shapes/triangle.i
+
+# target to preprocess a source file
+Code/shapes/triangle.cpp.i:
+	$(MAKE) -f CMakeFiles/ray.dir/build.make CMakeFiles/ray.dir/Code/shapes/triangle.cpp.i
+.PHONY : Code/shapes/triangle.cpp.i
+
+Code/shapes/triangle.s: Code/shapes/triangle.cpp.s
+
+.PHONY : Code/shapes/triangle.s
+
+# target to generate assembly for a file
+Code/shapes/triangle.cpp.s:
+	$(MAKE) -f CMakeFiles/ray.dir/build.make CMakeFiles/ray.dir/Code/shapes/triangle.cpp.s
+.PHONY : Code/shapes/triangle.cpp.s
+
 Code/triple.o: Code/triple.cpp.o
 
 .PHONY : Code/triple.o
@@ -399,6 +453,12 @@ help:
 	@echo "... Code/shapes/sphere.o"
 	@echo "... Code/shapes/sphere.i"
 	@echo "... Code/shapes/sphere.s"
+	@echo "... Code/shapes/torus.o"
+	@echo "... Code/shapes/torus.i"
+	@echo "... Code/shapes/torus.s"
+	@echo "... Code/shapes/triangle.o"
+	@echo "... Code/shapes/triangle.i"
+	@echo "... Code/shapes/triangle.s"
 	@echo "... Code/triple.o"
 	@echo "... Code/triple.i"
 	@echo "... Code/triple.s"
