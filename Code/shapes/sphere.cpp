@@ -22,7 +22,7 @@ Hit Sphere::intersect(Ray const &ray)
     * intersection point from the ray origin in *t (see example).
     ****************************************************/
 
-    Vector OC = (ray.O - position );
+    Vector OC = (ray.O-position);
     Vector v = ray.D;
 		
 	double t, a, b, c;

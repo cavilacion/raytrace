@@ -67,7 +67,7 @@ Color Scene::trace(Ray const &ray)
 		
 		I += Id + Is;
 	}   
-    return Ia + I;
+    return Ia+I ;
 }
 
 void Scene::render(Image &img)

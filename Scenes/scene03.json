@@ -8,11 +8,11 @@
     ],
     "Objects": [
         {
-            "type": "triangle",
-            "comment": "Blue triangle",
-            "A": [90, 320, 100],
-            "B": [50, 250, 100],
-            "C": [130, 250, 100],
+            "type": "torus",
+            "comment": "Blue sphere",
+            "pos": [0,0,100],
+            "R": 200,
+            "r": 70,
             "material":
             {
                 "color": [0.0, 0.0, 1.0],
@@ -24,44 +24,58 @@
         },
         {
             "type": "sphere",
-            "comment": "Blue sphere",
-            "position": [90, 320, 100],
-            "radius": 10,
+            "comment": "Green sphere",
+            "position": [210, 270, 300],
+            "radius": 50,
             "material":
             {
-                "color": [0.0, 0.0, 1.0],
+                "color": [0.0, 1.0, 0.0],
                 "ka": 0.2,
-                "kd": 0.7,
+                "kd": 0.3,
                 "ks": 0.5,
-                "n": 64
+                "n": 8
             }
         },
         {
             "type": "sphere",
-            "comment": "Blue sphere",
-            "position": [50, 250, 100],
-            "radius": 10,
+            "comment": "Red sphere",
+            "position": [290, 170, 150],
+            "radius": 50,
             "material":
             {
-                "color": [0.0, 0.0, 1.0],
+                "color": [1.0, 0.0, 0.0],
                 "ka": 0.2,
                 "kd": 0.7,
-                "ks": 0.5,
-                "n": 64
+                "ks": 0.8,
+                "n": 32
             }
         },
         {
             "type": "sphere",
-            "comment": "Blue sphere",
-            "position": [130, 250, 100],
-            "radius": 10,
+            "comment": "Yellow sphere",
+            "position": [140, 220, 400],
+            "radius": 50,
             "material":
             {
-                "color": [0.0, 0.0, 1.0],
+                "color": [1.0, 0.8, 0.0],
                 "ka": 0.2,
-                "kd": 0.7,
+                "kd": 0.8,
+                "ks": 0.0,
+                "n": 1
+            }
+        },
+        {
+            "type": "sphere",
+            "comment": "Orange sphere",
+            "position": [110, 130, 200],
+            "radius": 50,
+            "material":
+            {
+                "color": [1.0, 0.5, 0.0],
+                "ka": 0.2,
+                "kd": 0.8,
                 "ks": 0.5,
-                "n": 64
+                "n": 32
             }
         }
     ]

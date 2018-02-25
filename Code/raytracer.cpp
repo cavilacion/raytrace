@@ -12,6 +12,7 @@
 #include "shapes/sphere.h"
 #include "shapes/triangle.h"
 #include "shapes/torus.h"
+#include "shapes/plane.h"
 
 // =============================================================================
 // -- End of shape includes ----------------------------------------------------
@@ -49,10 +50,16 @@ bool Raytracer::parseObjectNode(json const &node)
 		}
 		else if (node["type"] == "torus")
 		{
-				Point pos(node["pos"]);
-				double r1 = node["r1"];
-				double r2 = node["r2"];
-				obj = ObjectPtr(new Torus(pos, r1, r2));
+			  Point C(node["pos"]); 
+				double R = node["R"];
+				double r = node["r"];
+				obj = ObjectPtr(new Torus(C, R, r));
+		}
+		else if (node["type"] == "plane")
+		{
+				Point P(node["point"]);
+				Vector N(node["normal"]);
+				obj = ObjectPtr(new Plane(P, N));
 		}
     else
     {

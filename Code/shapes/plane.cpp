@@ -5,13 +5,13 @@
 Hit Plane::intersect(Ray const &ray)
 {
 	float denom = normal.dot(ray.D);
-	if (abs(denom) <= 0.0001f) // your favorite epsilon
+	if (fabs(denom) <= 0.0001f) // your favorite epsilon
 	{
 		return Hit::NO_HIT();
 	}
 	float t = (point - ray.O).dot(normal) / denom;
 	
-    return Hit(t, normal);
+  return Hit(t, normal);
 }
 
 Plane::Plane(Point const  &point, Vector normal)
